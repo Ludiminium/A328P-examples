@@ -1,4 +1,4 @@
-# A328P-examples
+# Atmega328P ArduinoUNO Assembly examples
 Example Assembly programs for the Arduino UNO on the Atmega328P.<br>
 Meant for educational purposes.<br>
 
